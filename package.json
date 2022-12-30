@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/getgauge-examples/mocha-taiko#readme",
   "dependencies": {
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "taiko": "^0.7.1"
   }
 }
